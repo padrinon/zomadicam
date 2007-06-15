@@ -2,7 +2,7 @@
 
 = Introduction =
 
-ZomadiCAM is a SketchUp to Shopbot Partfile generator.
+ZomadiCAM: A SketchUp to Shopbot Partfile generator.
 
 
 = Quick Start - Transform Model directly to Partfile =
