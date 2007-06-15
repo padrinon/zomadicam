@@ -1,4 +1,4 @@
-#summary This page is the entry point for ZomadiCAM documentation
+#summary This page is a stub entry point for ZomadiCAM documentation
 
 = Introduction =
 
@@ -25,10 +25,4 @@ The Shopbot Partfile for the model should have been written into the C:\SbParts\
 
 
 
-
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
 
