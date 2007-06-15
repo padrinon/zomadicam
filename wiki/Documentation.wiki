@@ -15,7 +15,7 @@ ZomadiCAM: A SketchUp to Shopbot Partfile generator.
 
  * Download the Virtual Shopbot directly into your model.
 
- * You *must* explode the Virtual Shopbot Model *one* time. This step will be soon deprecated.
+ * After importing the Virtual Shopbot you *must* explode the Virtual Shopbot Model *one* time. This step will be soon deprecated. This because Sketchup automatically wraps the component in a new generic component.
 
  * Download another model from the 3D-Warehouse::ZomadiCAM Collection.
 
