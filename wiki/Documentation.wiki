@@ -7,15 +7,15 @@ ZomadiCAM: A SketchUp to Shopbot Partfile generator.
 
 = Quick Start - Transform Model directly to Partfile =
 
- * Load the Zomadic plugins into the Google Sketchup plugins folder.
+ * Copy the Zomadic plugins into the Google Sketchup plugins folder.
 
  * Be sure you are on a PC and have created C:\SbParts\
 
- * Launch Sketchup and menu select Plugins->Zomadic Tools->Zomadicam->Get Proper Models...
+ * Launch Sketchup and menu select File->3D Warehouse->Get Models...
 
- * Download the Virtual Shopbot directly into your model.
+ * Search for the Collection Zomadicam and download the Virtual Shopbot directly into your model.
 
- * After importing the Virtual Shopbot you *must* explode the Virtual Shopbot Model *one* time. This step will be soon deprecated. This because Sketchup automatically wraps the component in a new generic component.
+ * After importing the Virtual Shopbot you *must* explode the Virtual Shopbot Model *one* time. This step will be soon deprecated. This because Sketchup automatically wraps the component in a new generic component and we don't want that.
 
  * Download another model from the 3D-Warehouse::ZomadiCAM Collection.
 
