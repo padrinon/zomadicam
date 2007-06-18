@@ -37,5 +37,7 @@ You may also simply create partfiles based upon Sketchup geometry which is not n
  # Menu-select Plugins->Zomadic Tools->ZomadiCAM->transform selected Geometry to Toolpath
 
   ==Translate Toolpath to Partfile==
+ # Set the Z-Zero value relative to the position of the toolpath geometry you wish to write; menu-select Plugins->Zomadic Tools->ZomadiCAM->set Z-Zero...
  # Select the Toolpath components from the toolpath layer you wish to write to the partfile
  # Menu-select Plugins->Zomadic Tools->ZomadiCAM->write selected toolpath geometry to Partfile
+
