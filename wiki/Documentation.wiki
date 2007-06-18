@@ -22,3 +22,20 @@ ZomadiCAM: A SketchUp to Shopbot Partfile generator.
  * Select the model and menu select Plugins::Zomadic Tools::ZomadiCAM::Transform Model directly to Partfile. Follow the dialogs.
 
  * The Shopbot Partfile for the model should have been written into the C:\SbParts\ folder.
+
+
+
+
+
+= Quick Start - Creating Partfile from primitive Geometry =
+
+You may also simply create partfiles based upon Sketchup geometry which is not necessarily a part of a model. There are two steps
+
+ * =Translate Geometry to Toolpath+
+ # Make sure the geometry is wrapped within a component
+ # Select the geometry you wish to write to a partfile
+ * Menu-select Plugins->Zomadic Tools->ZomadiCAM->transform selected Geometry to Toolpath
+This will create a toolpath of the selected geometry in the toolpath layer.
+ * =Translate Toolpath to Partfile=
+ # Select the Toolpath components you wish to write to the partfile
+ # Menu-select Plugins->Zomadic Tools->ZomadiCAM->write selected toolpath geometry to Partfile
