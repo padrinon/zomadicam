@@ -10,12 +10,12 @@ There are two primary ways you can use Zomadicam to generate Shopbot Partfiles f
 
  * Copy the Zomadic plugins into the Google Sketchup plugins folder.
 
- * Be sure you are on a PC and have created C:\SbParts\
+ * Be sure you are on a PC and have created *C:\SbParts\*
 
 ==Transform Proper Model directly to Partfile==
  Once a model has been properly created to work with Zomadicam the model can be easily shared by uploading it to the Google 3D Warehouse. To download and create a model already uploaded follow these steps.
 
- * Launch Sketchup and menu select File->3D Warehouse->Get Models...
+ * Launch Sketchup and menu select *_File->3D Warehouse->Get Models..._*
 
  * Search for the Collection Zomadicam and download the Virtual Shopbot directly into your model.
 
@@ -23,9 +23,9 @@ There are two primary ways you can use Zomadicam to generate Shopbot Partfiles f
 
  * Download another model from the 3D-Warehouse::ZomadiCAM Collection.
 
- * Select the Virtual Shopbot Table and set its z-zero value Plugins::Zomadic Tools::ZomadiCAM::set Z-Zero... 
+ * Select the Virtual Shopbot Table and set its z-zero value *_Plugins->Zomadic Tools->ZomadiCAM->set Z-Zero..._*
 
- * Select the model and menu select Plugins::Zomadic Tools::ZomadiCAM::Transform Model directly to Partfile. Follow the dialogs.
+ * Select the model and menu select *_Plugins->Zomadic Tools->ZomadiCAM->Transform Model directly to Partfile_*. Follow the dialogs.
 
  * The Shopbot Partfile for the model should have been written into the C:\SbParts\ folder.
 
@@ -40,12 +40,15 @@ You may also create partfiles based upon raw Sketchup geometry which is not nece
   ===Translate Geometry to Toolpath===
  # Make sure the geometry is wrapped within a component
  # Select the components you wish to write to a partfile
- # Menu-select Plugins->Zomadic Tools->ZomadiCAM->transform selected Geometry to Toolpath
+ # Menu-select *_Plugins->Zomadic Tools->ZomadiCAM->transform selected Geometry to Toolpath_*
 
   ===Translate Toolpath to Partfile===
- # Set the global Z-Zero value you wish to use; menu-select Plugins->Zomadic Tools->ZomadiCAM->set Z-Zero...
+ # Set the global Z-Zero value you wish to use; menu-select *_Plugins->Zomadic Tools->ZomadiCAM->set Z-Zero..._*
  # Select the Toolpath components from the toolpath_geometry layer you wish to write to the partfile
- # Menu-select Plugins->Zomadic Tools->ZomadiCAM->write selected toolpath geometry to Partfile
+ # Menu-select *_Plugins->Zomadic Tools->ZomadiCAM->write selected toolpath geometry to Partfile_*
+
+
+
 
 
 
