@@ -1,7 +1,7 @@
 =Zomadicam: A SketchUp to Shopbot Partfile generator=
 
 ==Introduction==
-There are two way you can use Zomadicam to generate Shopbot Partfiles from SketchUp Geometry.
+There are two primary ways you can use Zomadicam to generate Shopbot Partfiles from SketchUp Geometry.
  * Proper Model to Partfile
  * Primitive Geometry to Partfile
 
@@ -46,7 +46,6 @@ You may also create partfiles based upon raw Sketchup geometry which is not nece
  # Set the global Z-Zero value you wish to use; menu-select Plugins->Zomadic Tools->ZomadiCAM->set Z-Zero...
  # Select the Toolpath components from the toolpath_geometry layer you wish to write to the partfile
  # Menu-select Plugins->Zomadic Tools->ZomadiCAM->write selected toolpath geometry to Partfile
-
 
 
 
