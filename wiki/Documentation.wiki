@@ -10,7 +10,7 @@ There are two primary ways you can use Zomadicam to generate Shopbot Partfiles f
 
  * Copy the Zomadic plugins into the Google Sketchup plugins folder.
 
- * Be sure you are on a PC and have created *C:\SbParts*
+ * Be sure you are on a PC and have created the C:\SbParts folder.
 
 ==Transform Proper Model directly to Partfile==
  Once a model has been properly created to work with Zomadicam the model can be easily shared by uploading it to the Google 3D Warehouse. To download and create a model already uploaded follow these steps.
