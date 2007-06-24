@@ -1,0 +1,19 @@
+#summary One-sentence summary of this page.
+
+== Version 1.13 == 
+2007.06.24
+
+Patch fix for some components copying to the table upside down.
+fix in ComponentInstance::copy
+
+
+== Version 1.12 ==
+2007.06.21
+
+Replaced erroneous code.
+
+
+
+
+
+
