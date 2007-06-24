@@ -1,0 +1,5 @@
+
+=== Version 1.13 ===
+
+In order for the contour algorithm to produce appropriate output the bit diameter must be smaller than the smallest path. So for example, use a 0.125 bit for the Jamboree Box since the slots are 0.25 in width.
+
