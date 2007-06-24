@@ -1,6 +1,6 @@
 === Why are the Parts below the z-zero plane? ===
 
-Often, but not always, Partfiles are generated with the intention that at runtime the machine's z-zero level will be set to the top of the material. This allows complete control over the depth of cut into the material. In this case negative z-values represent cuts into the material wherease positive z-values are above the surface of the material.
+Often, but not always, Partfiles are generated with the intention that at runtime the machine's z-zero level will be set to the top of the material. This allows complete control over the depth of cut into the material. In this case negative z-values represent cuts into the material wherease positive z-values are above the surface of the material. You generally will want to set the z-zero value to the exact thickness of the material.
 
 
 
