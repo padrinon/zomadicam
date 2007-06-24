@@ -1,0 +1,11 @@
+=== Why are the Parts below the z-zero plane? ===
+
+Often, but not always, Partfiles are generated with the intention that at runtime the machine's z-zero level will be set to the top of the material. This allows complete control over the depth of cut into the material. In this case negative z-values represent cuts into the material wherease positive z-values are above the surface of the material.
+
+
+
+=== What's the difference between the z-zero plane and the Safe Z-Value ===
+
+The z-zero plane typically represents where the top of the material is relative to the machine's coordinate system. A tool position of z==0 would be one in which the tool is just touching the top of the material.
+
+The Safe-Z Value is the height above the z-zero plane in which it is considered safe for the tool to rapid move from one point to another.
